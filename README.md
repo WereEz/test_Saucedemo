@@ -17,7 +17,11 @@
 ```
    pip install selenium
 ```
-3. Запустите:
+3. Перейдите в директорию:
+ ```
+   cd test_Saucedemo
+```
+4. Запустите:
 ```
    python test_saucedemo.py
 ```
